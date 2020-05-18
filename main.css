@@ -1,0 +1,18 @@
+
+body{
+    background-image: url("./dice2.jpg");
+    
+}
+#player-input{
+    justify-content: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: aqua;
+
+}
+
+#roll{
+    justify-content: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
